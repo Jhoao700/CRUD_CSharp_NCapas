@@ -1,0 +1,13 @@
+# Ignorar la carpeta de configuración de Visual Studio
+.vs/
+
+# Ignorar archivos binarios y temporales de .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Ignorar archivos de configuración local
+appsettings.Development.json
